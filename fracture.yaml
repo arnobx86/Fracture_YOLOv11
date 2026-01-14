@@ -1,0 +1,16 @@
+path: dataset
+train: images/train
+val: images/val
+
+nc: 10
+names:
+  - transverse
+  - spiral
+  - comminuted
+  - greenstick
+  - segmental
+  - oblique
+  - displaced
+  - linear
+  - complex
+  - healthy
